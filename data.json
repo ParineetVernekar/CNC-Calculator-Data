@@ -1,0 +1,556 @@
+[ {
+    "id":1,
+      "material": "ABS",
+      "docin": 0.07,
+      "docmm": 1.8,
+      "docPerc": 28,
+      "spindleRPM": 17000,
+      "dewalt611": 1.5,
+      "makita0701": 3,
+      "feedInPerMin": 65,
+      "feedMmPerMin": 1651,
+      "cptMmFlute": 0.049,
+      "plungeRateIn": 22,
+      "plungeRateMm": 560
+    }, {
+        "id":2,
+      "material": "Acrylic",
+      "docin": 0.06,
+      "docmm": 1.5,
+      "docPerc": 24,
+      "spindleRPM": 19000,
+      "dewalt611": 2.5,
+      "makita0701": 3.5,
+      "feedInPerMin": 65,
+      "feedMmPerMin": 1651,
+      "cptMmFlute": 0.043,
+      "plungeRateIn": 25,
+      "plungeRateMm": 640
+    }, {
+        "id":3,
+
+      "material": "Delrin",
+      "docin": 0.08,
+      "docmm": 2.0,
+      "docPerc": 32,
+      "spindleRPM": 20500,
+      "dewalt611": 3.25,
+      "makita0701": 3.75,
+      "feedInPerMin": 65,
+      "feedMmPerMin": 1651,
+      "cptMmFlute": 0.040,
+      "plungeRateIn": 32,
+      "plungeRateMm": 810
+    }, {
+        "id":4,
+
+      "material": "HDPE",
+      "docin": 0.13,
+      "docmm": 3.2,
+      "docPerc": 50,
+      "spindleRPM": 21500,
+      "dewalt611": 3.75,
+      "makita0701": 3.75,
+      "feedInPerMin": 80,
+      "feedMmPerMin": 2032,
+      "cptMmFlute": 0.047,
+      "plungeRateIn": 40,
+      "plungeRateMm": 1020
+    },{
+        "id":5,
+
+      "material": "Kydex",
+      "docin": 0.08,
+      "docmm": 2.0,
+      "docPerc": 32,
+      "spindleRPM": 18000,
+      "dewalt611": 2,
+      "makita0701": 3.25,
+      "feedInPerMin": 55,
+      "feedMmPerMin": 1397,
+      "cptMmFlute": 0.039,
+      "plungeRateIn": 22,
+      "plungeRateMm": 560
+    },{
+        "id":6,
+
+      "material": "Nylon",
+      "docin": 0.08,
+      "docmm": 2.0,
+      "docPerc": 32,
+      "spindleRPM": 17000,
+      "dewalt611": 1.5,
+      "makita0701": 3,
+      "feedInPerMin": 75,
+      "feedMmPerMin": 1905,
+      "cptMmFlute": 0.056,
+      "plungeRateIn": 40,
+      "plungeRateMm": 1020
+    },{
+        "id":7,
+
+      "material": "Linoleum",
+      "docin": 0.03,
+      "docmm": 0.8,
+      "docPerc": 12,
+      "spindleRPM": 17000,
+      "dewalt611": 1.5,
+      "makita0701": 3,
+      "feedInPerMin": 75,
+      "feedMmPerMin": 1905,
+      "cptMmFlute": 0.056,
+      "plungeRateIn": 35,
+      "plungeRateMm": 890
+    }, {
+        "id":8,
+
+      "material": "PEEK",
+      "docin": 0.03,
+      "docmm": 0.8,
+      "docPerc": 12,
+      "spindleRPM": 17000,
+      "dewalt611": 1.5,
+      "makita0701": 3,
+      "feedInPerMin": 65,
+      "feedMmPerMin": 1651,
+      "cptMmFlute": 0.049,
+      "plungeRateIn": 30,
+      "plungeRateMm": 760
+    }, {
+        "id":9,
+
+      "material": "Polycarbonate",
+      "docin": 0.08,
+      "docmm": 2.0,
+      "docPerc": 32,
+      "spindleRPM": 18000,
+      "dewalt611": 2,
+      "makita0701": 3.25,
+      "feedInPerMin": 55,
+      "feedMmPerMin": 1397,
+      "cptMmFlute": 0.039,
+      "plungeRateIn": 25,
+      "plungeRateMm": 640
+    },{
+        "id":10,
+
+      "material": "Polypropylene",
+      "docin": 0.08,
+      "docmm": 2.0,
+      "docPerc": 32,
+      "spindleRPM": 24200,
+      "dewalt611": 5,
+      "makita0701": 4.25,
+      "feedInPerMin": 90,
+      "feedMmPerMin": 2286,
+      "cptMmFlute": 0.047,
+      "plungeRateIn": 15,
+      "plungeRateMm": 380
+    },{
+        "id":11,
+
+      "material": "PVC",
+      "docin": 0.09,
+      "docmm": 2.3,
+      "docPerc": 36,
+      "spindleRPM": 17000,
+      "dewalt611": 1.5,
+      "makita0701": 3,
+      "feedInPerMin": 35,
+      "feedMmPerMin": 889,
+      "cptMmFlute": 0.026,
+      "plungeRateIn": 17,
+      "plungeRateMm": 430
+    },{
+        "id":12,
+
+      "material": "Styrene",
+      "docin": 0.03,
+      "docmm": 0.8,
+      "docPerc": 12,
+      "spindleRPM": 17000,
+      "dewalt611": 1.5,
+      "makita0701": 3,
+      "feedInPerMin": 40,
+      "feedMmPerMin": 1016,
+      "cptMmFlute": 0.030,
+      "plungeRateIn": 15,
+      "plungeRateMm": 380
+    }, {
+        "id":13,
+
+      "material": "UHMW",
+      "docin": 0.10,
+      "docmm": 2.5,
+      "docPerc": 40,
+      "spindleRPM": 17700,
+      "dewalt611": 1.75,
+      "makita0701": 3.25,
+      "feedInPerMin": 75,
+      "feedMmPerMin": 1905,
+      "cptMmFlute": 0.054,
+      "plungeRateIn": 22,
+      "plungeRateMm": 560
+    },{
+        "id":14,
+
+      "material": "Sintra",
+      "docin": 0.13,
+      "docmm": 3.3,
+      "docPerc": 52,
+      "spindleRPM": 17000,
+      "dewalt611": 1.5,
+      "makita0701": 3,
+      "feedInPerMin": 100,
+      "feedMmPerMin": 2540,
+      "cptMmFlute": 0.075,
+      "plungeRateIn": 80,
+      "plungeRateMm": 2030
+    },{
+        "id":15,
+
+      "material": "Resin",
+      "docin": 0.09,
+      "docmm": 2.3,
+      "docPerc": 36,
+      "spindleRPM": 17500,
+      "dewalt611": 1.75,
+      "makita0701": 3.25,
+      "feedInPerMin": 60,
+      "feedMmPerMin": 1524,
+      "cptMmFlute": 0.044,
+      "plungeRateIn": 50,
+      "plungeRateMm": 1270
+    },{
+        "id":16,
+
+      "material": "Al/PVC panel",
+      "docin": 0.13,
+      "docmm": 3.3,
+      "docPerc": 52,
+      "spindleRPM": 17500,
+      "dewalt611": 1.75,
+      "makita0701": 3.25,
+      "feedInPerMin": 50,
+      "feedMmPerMin": 1270,
+      "cptMmFlute": 0.036,
+      "plungeRateIn": 25,
+      "plungeRateMm": 640
+    },{
+        "id":17,
+
+      "material": "Carbonfibre",
+      "docin": 0.06,
+      "docmm": 1.5,
+      "docPerc": 24,
+      "spindleRPM": 17000,
+      "dewalt611": 1.5,
+      "makita0701": 3,
+      "feedInPerMin": 45,
+      "feedMmPerMin": 1143,
+      "cptMmFlute": 0.034,
+      "plungeRateIn": 20,
+      "plungeRateMm": 510
+    },{
+        "id":18,
+
+      "material": "Garolite",
+      "docin": 0.08,
+      "docmm": 2.0,
+      "docPerc": 32,
+      "spindleRPM": 18500,
+      "dewalt611": 2.25,
+      "makita0701": 3.25,
+      "feedInPerMin": 75,
+      "feedMmPerMin": 1905,
+      "cptMmFlute": 0.051,
+      "plungeRateIn": 30,
+      "plungeRateMm": 760
+    }, {
+        "id":19,
+
+      "material": "G10",
+      "docin": 0.09,
+      "docmm": 2.3,
+      "docPerc": 36,
+      "spindleRPM": 18500,
+      "dewalt611": 2.25,
+      "makita0701": 3.25,
+      "feedInPerMin": 60,
+      "feedMmPerMin": 1524,
+      "cptMmFlute": 0.041,
+      "plungeRateIn": 28,
+      "plungeRateMm": 710
+    },{
+        "id":20,
+
+      "material": "G10 XX",
+      "docin": 0.08,
+      "docmm": 2.0,
+      "docPerc": 32,
+      "spindleRPM": 18000,
+      "dewalt611": 2,
+      "makita0701": 3.25,
+      "feedInPerMin": 55,
+      "feedMmPerMin": 1397,
+      "cptMmFlute": 0.039,
+      "plungeRateIn": 25,
+      "plungeRateMm": 640
+    }, {
+        "id":21,
+
+      "material": "Phenolic",
+      "docin": 0.08,
+      "docmm": 2.0,
+      "docPerc": 32,
+      "spindleRPM": 17000,
+      "dewalt611": 1.5,
+      "makita0701": 3,
+      "feedInPerMin": 65,
+      "feedMmPerMin": 1651,
+      "cptMmFlute": 0.049,
+      "plungeRateIn": 35,
+      "plungeRateMm": 890
+    }, {
+        "id":22,
+
+      "material": "Foamcore",
+      "docin": 0.10,
+      "docmm": 2.5,
+      "docPerc": 40,
+      "spindleRPM": 17000,
+      "dewalt611": 1.5,
+      "makita0701": 3,
+      "feedInPerMin": 65,
+      "feedMmPerMin": 1651,
+      "cptMmFlute": 0.049,
+      "plungeRateIn": 35,
+      "plungeRateMm": 890
+    }, {
+        "id":23,
+
+      "material": "Renshape",
+      "docin": 0.18,
+      "docmm": 4.6,
+      "docPerc": 72,
+      "spindleRPM": 19000,
+      "dewalt611": 2.5,
+      "makita0701": 3.5,
+      "feedInPerMin": 75,
+      "feedMmPerMin": 1905,
+      "cptMmFlute": 0.050,
+      "plungeRateIn": 35,
+      "plungeRateMm": 890
+    }, {
+        "id":24,
+
+      "material": "6061 Al",
+      "docin": 0.03,
+      "docmm": 0.8,
+      "docPerc": 12,
+      "spindleRPM": 17500,
+      "dewalt611": 1.75,
+      "makita0701": 3.25,
+      "feedInPerMin": 30,
+      "feedMmPerMin": 762,
+      "cptMmFlute": 0.022,
+      "plungeRateIn": 10,
+      "plungeRateMm": 250
+    },{
+        "id":25,
+
+      "material": "360 Brass",
+      "docin": 0.02,
+      "docmm": 0.5,
+      "docPerc": 8,
+      "spindleRPM": 18000,
+      "dewalt611": 2,
+      "makita0701": 3.25,
+      "feedInPerMin": 25,
+      "feedMmPerMin": 635,
+      "cptMmFlute": 0.018,
+      "plungeRateIn": 11,
+      "plungeRateMm": 280
+    },{
+        "id":26,
+
+      "material": "Lead",
+      "docin": 0.07,
+      "docmm": 1.7,
+      "docPerc": 26,
+      "spindleRPM": 17000,
+      "dewalt611": 1.5,
+      "makita0701": 3,
+      "feedInPerMin": 50,
+      "feedMmPerMin": 1270,
+      "cptMmFlute": 0.037,
+      "plungeRateIn": 20,
+      "plungeRateMm": 510
+    },{
+        "id":27,
+
+      "material": "Magnesium - fire hazard",
+      "docin": 0.04,
+      "docmm": 1.0,
+      "docPerc": 16,
+      "spindleRPM": 17500,
+      "dewalt611": 1.75,
+      "makita0701": 3.25,
+      "feedInPerMin": 40,
+      "feedMmPerMin": 1016,
+      "cptMmFlute": 0.029,
+      "plungeRateIn": 15,
+      "plungeRateMm": 380
+    },{
+        "id":28,
+
+      "material": "Steel - use coolant",
+      "docin": 0.02,
+      "docmm": 0.5,
+      "docPerc": 8,
+      "spindleRPM": 17500,
+      "dewalt611": 1.75,
+      "makita0701": 3.25,
+      "feedInPerMin": 12,
+      "feedMmPerMin": 305,
+      "cptMmFlute": 0.009,
+      "plungeRateIn": 5,
+      "plungeRateMm": 130
+    }, {
+        "id":29,
+
+      "material": "Bamboo",
+      "docin": 0.22,
+      "docmm": 5.6,
+      "docPerc": 88,
+      "spindleRPM": 19000,
+      "dewalt611": 2.5,
+      "makita0701": 3.5,
+      "feedInPerMin": 65,
+      "feedMmPerMin": 1651,
+      "cptMmFlute": 0.043,
+      "plungeRateIn": 30,
+      "plungeRateMm": 760
+    }, {
+        "id":30,
+ 
+      "material": "Pine",
+      "docin": 0.40,
+      "docmm": 10.2,
+      "docPerc": 160,
+      "spindleRPM": 21000,
+      "dewalt611": 3.5,
+      "makita0701": 3.75,
+      "feedInPerMin": 75,
+      "feedMmPerMin": 1905,
+      "cptMmFlute": 0.045,
+      "plungeRateIn": 40,
+      "plungeRateMm": 1020
+    }, {
+        "id":31,
+
+      "material": "Mahogany",
+      "docin": 0.10,
+      "docmm": 2.5,
+      "docPerc": 40,
+      "spindleRPM": 19700,
+      "dewalt611": 2.75,
+      "makita0701": 3.5,
+      "feedInPerMin": 65,
+      "feedMmPerMin": 1651,
+      "cptMmFlute": 0.042,
+      "plungeRateIn": 32,
+      "plungeRateMm": 810
+    }, {
+        "id":32,
+
+      "material": "Plywood",
+      "docin": 0.25,
+      "docmm": 6.4,
+      "docPerc": 100,
+      "spindleRPM": 19700,
+      "dewalt611": 2.75,
+      "makita0701": 3.5,
+      "feedInPerMin": 100,
+      "feedMmPerMin": 2540,
+      "cptMmFlute": 0.064,
+      "plungeRateIn": 50,
+      "plungeRateMm": 1270
+    }, {
+        "id":33,
+
+      "material": "MDF",
+      "docin": 0.30,
+      "docmm": 7.6,
+      "docPerc": 120,
+      "spindleRPM": 17000,
+      "dewalt611": 1.5,
+      "makita0701": 3,
+      "feedInPerMin": 80,
+      "feedMmPerMin": 2032,
+      "cptMmFlute": 0.060,
+      "plungeRateIn": 30,
+      "plungeRateMm": 760
+    }, {
+        "id":34,
+
+      "material": "Cork",
+      "docin": 0.30,
+      "docmm": 7.6,
+      "docPerc": 120,
+      "spindleRPM": 24000,
+      "dewalt611": 4.75,
+      "makita0701": 4.25,
+      "feedInPerMin": 60,
+      "feedMmPerMin": 1524,
+      "cptMmFlute": 0.032,
+      "plungeRateIn": 30,
+      "plungeRateMm": 760
+    }, {
+        "id":35,
+
+      "material": "Graphite",
+      "docin": 0.10,
+      "docmm": 2.5,
+      "docPerc": 40,
+      "spindleRPM": 19800,
+      "dewalt611": 2.75,
+      "makita0701": 3.5,
+      "feedInPerMin": 20,
+      "feedMmPerMin": 508,
+      "cptMmFlute": 0.013,
+      "plungeRateIn": 15,
+      "plungeRateMm": 380
+    }, {
+        "id":36,
+
+      "material": "Limestone",
+      "docin": 0.10,
+      "docmm": 2.5,
+      "docPerc": 40,
+      "spindleRPM": 17000,
+      "dewalt611": 1.5,
+      "makita0701": 3,
+      "feedInPerMin": 40,
+      "feedMmPerMin": 1016,
+      "cptMmFlute": 0.030,
+      "plungeRateIn": 12,
+      "plungeRateMm": 300
+    },{
+        "id":37,
+
+      "material": "HD Wax",
+      "docin": 0.30,
+      "docmm": 7.6,
+      "docPerc": 120,
+      "spindleRPM": 17000,
+      "dewalt611": 1.5,
+      "makita0701": 3,
+      "feedInPerMin": 100,
+      "feedMmPerMin": 2540,
+      "cptMmFlute": 0.075,
+      "plungeRateIn": 50,
+      "plungeRateMm": 1270
+    }
+]
+  
